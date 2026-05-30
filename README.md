@@ -11,18 +11,4 @@ A collection of Python practice programs covering fundamentals, problem-solving,
 - Data structures and algorithms
 - Real-world coding examples
 
-## 📂 Repository Structure
-
-```bash
-/python-practice
-│
-├── basics/
-├── conditional-statements/
-├── loops/
-├── functions/
-├── data-structures/
-├── object-oriented-programming/
-├── file-handling/
-├── automation-scripts/
-├── problem-solving/
-└── README.md
+README.md
